@@ -1,8 +1,8 @@
 export default function Projects() {
   const projects = [
     {
-      title: "CDN Management APIs",
-      description: "Developed backend APIs for CDN systems using Go and Oracle DB. Implemented secure CRUD operations and deployed on production servers.",
+      title: "CDNS Bank Management APIs",
+      description: "Developed backend APIs for National Savings Bank using Go and Oracle DB. Implemented secure CRUD operations and deployed on production servers.",
       tech: ["Go", "Oracle DB", "OpenAPI/Swagger", "Production Deployment"],
       icon: "fas fa-network-wired",
       gradient: "from-blue-500 to-cyan-500 dark:from-blue-600 dark:to-cyan-600",
