@@ -50,7 +50,7 @@ export default function About() {
             {/* Experience Highlights */}
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 p-6 rounded-xl border border-blue-100 dark:border-blue-800/30">
-                <div className="text-3xl font-bold text-blue-600 dark:text-cyan-400 mb-2">4+</div>
+                <div className="text-3xl font-bold text-blue-600 dark:text-cyan-400 mb-2">2+</div>
                 <div className="text-sm text-gray-600 dark:text-gray-400">Years Experience</div>
               </div>
               <div className="bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 p-6 rounded-xl border border-purple-100 dark:border-purple-800/30">
