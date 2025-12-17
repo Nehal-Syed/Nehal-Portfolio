@@ -356,7 +356,7 @@ export default function Experience() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="text-center">
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 dark:from-cyan-400 dark:to-blue-500 bg-clip-text text-transparent">
-                4+
+                2+
               </div>
               <div className="text-sm text-gray-700 dark:text-gray-300">Years Experience</div>
             </div>
